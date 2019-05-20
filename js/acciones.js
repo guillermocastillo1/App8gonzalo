@@ -7,7 +7,7 @@ document.addEventListener("deviceready",onDeviceReady,false);
 
    function onDeviceReady(){
    
-   $('#position').on('click',function(){
+   $('#posicion').on('click',function(){
    getPosition ();
    });
    }
